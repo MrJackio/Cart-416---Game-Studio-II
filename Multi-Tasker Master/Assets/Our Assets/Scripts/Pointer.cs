@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using Valve.VR;
+using UnityEngine.SceneManagement;
 
 //Script that casts a ray to determine where your controller is pointing. Also turns on and off laser if you are pointed at an object tagged 'menu'
 //Written by Jack Harrison
@@ -41,13 +42,15 @@ public class Pointer : MonoBehaviour
         if (m_PointerAction.GetStateUp(m_Pose.inputSource) && (Physics.Raycast(ray, out hit)) && hit.transform.tag == "Play")
         {
             //Load Level Demo 1
-            Debug.Log("You pressed Play");
+            //Debug.Log("You pressed Play");
+            SceneManager.LoadScene("Level 1 (Demo)");
         }
 
         if (m_PointerAction.GetStateUp(m_Pose.inputSource) && (Physics.Raycast(ray, out hit)) && hit.transform.tag == "Quit")
         {
             //Exit Game
-            Debug.Log("You pressed Quit");
+            //Debug.Log("You pressed Quit");
+            Application.Quit();
         }
 
     }

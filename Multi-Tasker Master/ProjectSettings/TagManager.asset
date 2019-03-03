@@ -9,6 +9,7 @@ TagManager:
   - Menu
   - Play
   - Quit
+  - Enemy
   layers:
   - Default
   - TransparentFX

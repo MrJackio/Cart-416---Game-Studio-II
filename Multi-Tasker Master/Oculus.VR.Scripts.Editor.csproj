@@ -295,41 +295,38 @@
     <Reference Include="UnityEditor.WindowsStandalone.Extensions">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.3.4f1/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEditor.OSXStandalone.Extensions">
-      <HintPath>C:/Program Files/Unity/Hub/Editor/2018.3.4f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll</HintPath>
-    </Reference>
     <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEditor.Advertisements">
-      <HintPath>D:/Development/Computation Arts/Game Studio II/Git/Multi-Tasker Master/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Analytics.Editor">
-      <HintPath>D:/Development/Computation Arts/Game Studio II/Git/Multi-Tasker Master/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>D:/Development/Computation Arts/Game Studio II/Git/Multi-Tasker Master/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>D:/Development/Computation Arts/Game Studio II/Git/Multi-Tasker Master/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEditor.Purchasing">
-      <HintPath>D:/Development/Computation Arts/Game Studio II/Git/Multi-Tasker Master/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll</HintPath>
-    </Reference>
-    <Reference Include="Valve.Newtonsoft.Json">
-      <HintPath>D:/Development/Computation Arts/Game Studio II/Git/Multi-Tasker Master/Assets/Store Assets/SteamVR/Input/Plugins/JSON.NET/Valve.Newtonsoft.Json.dll</HintPath>
+    <Reference Include="3DFont-Editor">
+      <HintPath>E:/Design/School/Game Studio II/Git/MultiTasker/Multi-Tasker Master/Assets/Store Assets/Realtime3DText/Real3DText/Editor/3DFont-Editor.dll</HintPath>
     </Reference>
     <Reference Include="3DFont">
-      <HintPath>D:/Development/Computation Arts/Game Studio II/Git/Multi-Tasker Master/Assets/Store Assets/Realtime3DText/Real3DText/Libraries/3DFont.dll</HintPath>
+      <HintPath>E:/Design/School/Game Studio II/Git/MultiTasker/Multi-Tasker Master/Assets/Store Assets/Realtime3DText/Real3DText/Libraries/3DFont.dll</HintPath>
     </Reference>
     <Reference Include="freetype">
-      <HintPath>D:/Development/Computation Arts/Game Studio II/Git/Multi-Tasker Master/Assets/Store Assets/Realtime3DText/Real3DText/Libraries/freetype.dll</HintPath>
-    </Reference>
-    <Reference Include="3DFont-Editor">
-      <HintPath>D:/Development/Computation Arts/Game Studio II/Git/Multi-Tasker Master/Assets/Store Assets/Realtime3DText/Real3DText/Editor/3DFont-Editor.dll</HintPath>
+      <HintPath>E:/Design/School/Game Studio II/Git/MultiTasker/Multi-Tasker Master/Assets/Store Assets/Realtime3DText/Real3DText/Libraries/freetype.dll</HintPath>
     </Reference>
     <Reference Include="Tao.OpenGl">
-      <HintPath>D:/Development/Computation Arts/Game Studio II/Git/Multi-Tasker Master/Assets/Store Assets/Realtime3DText/Real3DText/Libraries/Editor/Tao.OpenGl.dll</HintPath>
+      <HintPath>E:/Design/School/Game Studio II/Git/MultiTasker/Multi-Tasker Master/Assets/Store Assets/Realtime3DText/Real3DText/Libraries/Editor/Tao.OpenGl.dll</HintPath>
+    </Reference>
+    <Reference Include="Valve.Newtonsoft.Json">
+      <HintPath>E:/Design/School/Game Studio II/Git/MultiTasker/Multi-Tasker Master/Assets/Store Assets/SteamVR/Input/Plugins/JSON.NET/Valve.Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.Advertisements">
+      <HintPath>E:/Design/School/Game Studio II/Git/MultiTasker/Multi-Tasker Master/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Analytics.Editor">
+      <HintPath>E:/Design/School/Game Studio II/Git/MultiTasker/Multi-Tasker Master/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Analytics.StandardEvents">
+      <HintPath>E:/Design/School/Game Studio II/Git/MultiTasker/Multi-Tasker Master/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Analytics.Tracker">
+      <HintPath>E:/Design/School/Game Studio II/Git/MultiTasker/Multi-Tasker Master/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.Purchasing">
+      <HintPath>E:/Design/School/Game Studio II/Git/MultiTasker/Multi-Tasker Master/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>

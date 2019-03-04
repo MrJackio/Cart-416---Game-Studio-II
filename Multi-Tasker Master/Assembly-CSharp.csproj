@@ -341,6 +341,7 @@
     <Compile Include="Assets\Oculus\VoiceMod\Scripts\OVRVoiceMod.cs" />
     <Compile Include="Assets\Oculus\VoiceMod\Scripts\OVRVoiceModContext.cs" />
     <Compile Include="Assets\Our Assets\Scripts\EnemyMove.cs" />
+    <Compile Include="Assets\Our Assets\Scripts\EnemySpawn.cs" />
     <Compile Include="Assets\Our Assets\Scripts\Pointer.cs" />
     <Compile Include="Assets\Our Assets\Scripts\Teleporter.cs" />
     <Compile Include="Assets\Our Assets\Scripts\Tool1.cs" />
